@@ -2,9 +2,9 @@
   "metadata": {
     "title": "Zenoh Status",
     "subtitle": "Zenoh  repositories CI Status",
-    "date": "2024-04-03T07:01:28.226Z",
+    "date": "2024-04-03T08:01:44.745Z",
     "createdBy": "Github Action",
-    "createdUrl": "https://github.com/ZettaScaleLabs/zenoh-status-page/actions/runs/8534542449"
+    "createdUrl": "https://github.com/ZettaScaleLabs/zenoh-status-page/actions/runs/8535233417"
   },
   "projects": [
     {
@@ -422,10 +422,10 @@
           "html_url": "https://github.com/eclipse-zenoh/zenoh/pull/893",
           "state": "open",
           "labels": [],
-          "draft": false,
+          "draft": true,
           "requested_reviewers": [],
           "created_at": "2024-04-02T09:41:52Z",
-          "updated_at": "2024-04-02T10:10:50Z",
+          "updated_at": "2024-04-03T07:08:33Z",
           "closed_at": null,
           "merged_at": null,
           "base": {
@@ -588,12 +588,12 @@
               "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
             },
             {
-              "id": 28363829333,
+              "id": 28385160529,
               "name": "eclipsefdn/eca",
               "html_url": "https://api.eclipse.org/git/eca/status/gh/eclipse-zenoh/zenoh/893",
               "conclusion": "success",
-              "started_at": "2024-04-02T10:10:54Z",
-              "completed_at": "2024-04-02T10:10:54Z",
+              "started_at": "2024-04-03T07:08:36Z",
+              "completed_at": "2024-04-03T07:08:36Z",
               "slug": false,
               "avatar_url": "https://avatars.githubusercontent.com/in/22325?v=4"
             }
