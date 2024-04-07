@@ -2,9 +2,9 @@
   "metadata": {
     "title": "Zenoh Status",
     "subtitle": "Zenoh  repositories CI Status",
-    "date": "2024-04-07T10:01:27.770Z",
+    "date": "2024-04-07T11:01:25.344Z",
     "createdBy": "Github Action",
-    "createdUrl": "https://github.com/ZettaScaleLabs/zenoh-status-page/actions/runs/8587903174"
+    "createdUrl": "https://github.com/ZettaScaleLabs/zenoh-status-page/actions/runs/8588233250"
   },
   "projects": [
     {
@@ -515,6 +515,28 @@
           },
           "checks": [
             {
+              "id": 23532131678,
+              "name": "CI status checks",
+              "html_url": "https://github.com/eclipse-zenoh/zenoh/actions/runs/8587822537/job/23532131678",
+              "status": "completed",
+              "conclusion": "failure",
+              "started_at": "2024-04-07T10:02:20Z",
+              "completed_at": "2024-04-07T10:02:22Z",
+              "slug": "github-actions",
+              "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+            },
+            {
+              "id": 23532127807,
+              "name": "CI status checks",
+              "html_url": "https://github.com/eclipse-zenoh/zenoh/actions/runs/8587822471/job/23532127807",
+              "status": "completed",
+              "conclusion": "failure",
+              "started_at": "2024-04-07T10:02:06Z",
+              "completed_at": "2024-04-07T10:02:06Z",
+              "slug": "github-actions",
+              "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+            },
+            {
               "id": 23531934563,
               "name": "Run tests on windows-latest",
               "html_url": "https://github.com/eclipse-zenoh/zenoh/actions/runs/8587822537/job/23531934563",
@@ -540,10 +562,10 @@
               "id": 23531934452,
               "name": "Run tests on macOS-latest",
               "html_url": "https://github.com/eclipse-zenoh/zenoh/actions/runs/8587822537/job/23531934452",
-              "status": "in_progress",
-              "conclusion": null,
+              "status": "completed",
+              "conclusion": "failure",
               "started_at": "2024-04-07T09:42:52Z",
-              "completed_at": null,
+              "completed_at": "2024-04-07T10:02:13Z",
               "slug": "github-actions",
               "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
             },
@@ -606,10 +628,10 @@
               "id": 23531934242,
               "name": "Run tests on macOS-latest",
               "html_url": "https://github.com/eclipse-zenoh/zenoh/actions/runs/8587822471/job/23531934242",
-              "status": "in_progress",
-              "conclusion": null,
+              "status": "completed",
+              "conclusion": "failure",
               "started_at": "2024-04-07T09:42:59Z",
-              "completed_at": null,
+              "completed_at": "2024-04-07T10:01:59Z",
               "slug": "github-actions",
               "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
             },
