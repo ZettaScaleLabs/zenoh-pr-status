@@ -2,9 +2,9 @@
   "metadata": {
     "title": "Zenoh Status",
     "subtitle": "Zenoh  repositories CI Status",
-    "date": "2024-04-12T00:04:37.389Z",
+    "date": "2024-04-12T01:23:12.907Z",
     "createdBy": "Github Action",
-    "createdUrl": "https://github.com/ZettaScaleLabs/zenoh-status-page/actions/runs/8654820918"
+    "createdUrl": "https://github.com/ZettaScaleLabs/zenoh-status-page/actions/runs/8655539617"
   },
   "projects": [
     {
@@ -4711,6 +4711,115 @@
       "repo_url": "https://github.com/eclipse-zenoh/zenoh-plugin-ros1",
       "pulls_url": "https://api.github.com/repos/eclipse-zenoh/zenoh-plugin-ros1/pulls{/number}",
       "pullRequests": [
+        {
+          "number": 54,
+          "title": "Sync `Cargo.lock` with Zenoh `580f0b6` from `2024-04-11`",
+          "url": "https://api.github.com/repos/eclipse-zenoh/zenoh-plugin-ros1/pulls/54",
+          "html_url": "https://github.com/eclipse-zenoh/zenoh-plugin-ros1/pull/54",
+          "state": "open",
+          "labels": [
+            "dependencies"
+          ],
+          "draft": false,
+          "requested_reviewers": [],
+          "created_at": "2024-04-12T00:09:19Z",
+          "updated_at": "2024-04-12T00:09:20Z",
+          "closed_at": null,
+          "merged_at": null,
+          "base": {
+            "ref": "main",
+            "sha": "464103a7fd58c26b5a36c75b28ddb7de90667248",
+            "label": "eclipse-zenoh:main"
+          },
+          "head": {
+            "ref": "eclipse-zenoh-bot/sync-lockfile",
+            "sha": "8621d7ff223b172f8d1e74c3d4e3b3d3b3631ec5",
+            "label": "eclipse-zenoh:eclipse-zenoh-bot/sync-lockfile"
+          },
+          "user": {
+            "login": "eclipse-zenoh-bot",
+            "avatar_url": "https://avatars.githubusercontent.com/u/61247838?v=4",
+            "html_url": "https://github.com/eclipse-zenoh-bot"
+          },
+          "checks": [
+            {
+              "id": 23732956108,
+              "name": "CI status checks",
+              "html_url": "https://github.com/eclipse-zenoh/zenoh-plugin-ros1/actions/runs/8654870680/job/23732956108",
+              "status": "completed",
+              "conclusion": "failure",
+              "started_at": "2024-04-12T00:12:26Z",
+              "completed_at": "2024-04-12T00:12:26Z",
+              "slug": "github-actions",
+              "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+            },
+            {
+              "id": 23732945242,
+              "name": "CI status checks",
+              "html_url": "https://github.com/eclipse-zenoh/zenoh-plugin-ros1/actions/runs/8654870993/job/23732945242",
+              "status": "completed",
+              "conclusion": "failure",
+              "started_at": "2024-04-12T00:12:00Z",
+              "completed_at": "2024-04-12T00:12:00Z",
+              "slug": "github-actions",
+              "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+            },
+            {
+              "id": 23732873166,
+              "name": "Run checks on ubuntu-latest",
+              "html_url": "https://github.com/eclipse-zenoh/zenoh-plugin-ros1/actions/runs/8654870993/job/23732873166",
+              "status": "completed",
+              "conclusion": "failure",
+              "started_at": "2024-04-12T00:09:28Z",
+              "completed_at": "2024-04-12T00:10:58Z",
+              "slug": "github-actions",
+              "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+            },
+            {
+              "id": 23732872895,
+              "name": "Run tests on ubuntu-latest",
+              "html_url": "https://github.com/eclipse-zenoh/zenoh-plugin-ros1/actions/runs/8654870993/job/23732872895",
+              "status": "completed",
+              "conclusion": "failure",
+              "started_at": "2024-04-12T00:09:28Z",
+              "completed_at": "2024-04-12T00:11:52Z",
+              "slug": "github-actions",
+              "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+            },
+            {
+              "id": 23732872471,
+              "name": "Run checks on ubuntu-latest",
+              "html_url": "https://github.com/eclipse-zenoh/zenoh-plugin-ros1/actions/runs/8654870680/job/23732872471",
+              "status": "completed",
+              "conclusion": "failure",
+              "started_at": "2024-04-12T00:09:27Z",
+              "completed_at": "2024-04-12T00:10:59Z",
+              "slug": "github-actions",
+              "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+            },
+            {
+              "id": 23732872265,
+              "name": "Run tests on ubuntu-latest",
+              "html_url": "https://github.com/eclipse-zenoh/zenoh-plugin-ros1/actions/runs/8654870680/job/23732872265",
+              "status": "completed",
+              "conclusion": "failure",
+              "started_at": "2024-04-12T00:09:27Z",
+              "completed_at": "2024-04-12T00:12:16Z",
+              "slug": "github-actions",
+              "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+            },
+            {
+              "id": 28554566407,
+              "name": "eclipsefdn/eca",
+              "html_url": "https://api.eclipse.org/git/eca/status/gh/eclipse-zenoh/zenoh-plugin-ros1/54",
+              "conclusion": "success",
+              "started_at": "2024-04-12T00:09:24Z",
+              "completed_at": "2024-04-12T00:09:24Z",
+              "slug": false,
+              "avatar_url": "https://avatars.githubusercontent.com/in/22325?v=4"
+            }
+          ]
+        },
         {
           "number": 49,
           "title": "feat(tracing): use tracing and zenoh-util log init",
